@@ -1,0 +1,35 @@
+.h3_obj{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rebeccapurple;
+    border-color: purple;
+    border-radius: 75px;
+    border-width: 2px;
+    border-style: solid;
+    width: 250px;
+    color: white;
+}
+body{
+    text-align: center;
+    background-color: paleturquoise;
+}
+
+.button{
+    box-shadow: 5px 10px 8px #888888;
+    background-color: rebeccapurple;
+    border-color: purple;
+    border-radius: 75px;
+    border-width: 2px;
+    border-style: solid;
+    width: 250px;
+    color: white;
+}
+#camera{
+    border: 2px solid purple;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_object,#result_object_name,#result_object_accuracy{
+    color: fuchsia;
+}
